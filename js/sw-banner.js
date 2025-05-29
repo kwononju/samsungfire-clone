@@ -1,4 +1,4 @@
- const swBanner = new Swiper(".sw-Swiper", {
+ const swBanner = new Swiper(".sw-banner", {
       pagination: {
         el: ".swiper-pagination",
         type: "fraction",
